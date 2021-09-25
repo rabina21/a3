@@ -1,0 +1,57 @@
+.top-wrapper{
+    padding-left: 100px;
+   font-style: oblique;
+    font-size: xx-large;
+    position: relative;
+    color: cadetblue;
+}
+.image{
+    display: inline-block;
+    margin-top: 200px;
+}
+.first{
+height: auto;
+width: 300px;
+display: inline-block;
+position: absolute;
+left: 30%;
+text-align: center;
+
+}
+.top{
+    height: 50px;
+    width: 100%;
+    color: blanchedalmond;
+    background-image: url(001.jpg);
+}
+.second{
+height: auto;
+width: 300px;
+display: inline-block;
+position: absolute;
+margin-left: 320px;
+left: 30%;
+text-align: center;
+
+}
+.middle{
+    height: 50px;
+    width: 100%;
+    color: blanchedalmond;
+    background-image: url(003.jpg);
+}
+.third{
+height: auto;
+width: 300px;
+display: inline-block;
+position: absolute;
+margin-left: 640px;
+left: 30%;
+text-align: center;
+}
+.last{
+    height: 50px;
+    width: 100%; 
+    background-image: url(004.jpg);
+    color: blanchedalmond;
+}
